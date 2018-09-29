@@ -689,6 +689,10 @@ footer .desc dd {
   .bar {
     font-size: 2.2rem;
   }
+  
+  .present {
+    font-size: 2.4rem;
+  }
 
   .contact a {
     display: block;
@@ -753,12 +757,13 @@ footer .desc dd {
 
   .media-magazine-right {
     float: none;
-    width: auto;
+    width: 150px;
     padding: 0 10px 10px;
+    margin: 0 auto;
   }
 
   .media-magazine-right img {
-    width: 100%;
+    width: 150px;
     height: auto;
     position: unset;
   }
